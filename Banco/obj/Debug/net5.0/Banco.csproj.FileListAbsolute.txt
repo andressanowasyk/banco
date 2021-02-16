@@ -1,0 +1,15 @@
+/Users/andressanowasyk/Documents/GitHub/banco/Banco/bin/Debug/net5.0/Banco.deps.json
+/Users/andressanowasyk/Documents/GitHub/banco/Banco/bin/Debug/net5.0/Banco.runtimeconfig.json
+/Users/andressanowasyk/Documents/GitHub/banco/Banco/bin/Debug/net5.0/Banco.runtimeconfig.dev.json
+/Users/andressanowasyk/Documents/GitHub/banco/Banco/bin/Debug/net5.0/Banco.dll
+/Users/andressanowasyk/Documents/GitHub/banco/Banco/bin/Debug/net5.0/ref/Banco.dll
+/Users/andressanowasyk/Documents/GitHub/banco/Banco/bin/Debug/net5.0/Banco.pdb
+/Users/andressanowasyk/Documents/GitHub/banco/Banco/obj/Debug/net5.0/Banco.csprojAssemblyReference.cache
+/Users/andressanowasyk/Documents/GitHub/banco/Banco/obj/Debug/net5.0/Banco.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andressanowasyk/Documents/GitHub/banco/Banco/obj/Debug/net5.0/Banco.AssemblyInfoInputs.cache
+/Users/andressanowasyk/Documents/GitHub/banco/Banco/obj/Debug/net5.0/Banco.AssemblyInfo.cs
+/Users/andressanowasyk/Documents/GitHub/banco/Banco/obj/Debug/net5.0/Banco.csproj.CoreCompileInputs.cache
+/Users/andressanowasyk/Documents/GitHub/banco/Banco/obj/Debug/net5.0/Banco.dll
+/Users/andressanowasyk/Documents/GitHub/banco/Banco/obj/Debug/net5.0/ref/Banco.dll
+/Users/andressanowasyk/Documents/GitHub/banco/Banco/obj/Debug/net5.0/Banco.pdb
+/Users/andressanowasyk/Documents/GitHub/banco/Banco/obj/Debug/net5.0/Banco.genruntimeconfig.cache
